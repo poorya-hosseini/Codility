@@ -1,0 +1,12 @@
+**/target
+**/.project
+**/.settings
+**/.classpath
+**/bin/
+**/.idea/*
+!.idea/copyright
+**/*.iml
+# By default, ignore all hidden files
+**/.*
+**/.idea
+!**/.gitignore
